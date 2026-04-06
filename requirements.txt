@@ -1,4 +1,5 @@
 streamlit==1.31.0
-pandas
-gspread
-google-auth
+pandas==2.0.3
+st-gsheets-connection==0.0.3
+gspread==5.12.0
+google-auth==2.22.0
